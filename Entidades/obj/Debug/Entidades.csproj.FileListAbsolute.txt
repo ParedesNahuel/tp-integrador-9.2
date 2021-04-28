@@ -1,0 +1,48 @@
+D:\Usuarios\OEM\Downloads\tp integrador\Entidades\bin\Debug\Entidades.dll
+D:\Usuarios\OEM\Downloads\tp integrador\Entidades\bin\Debug\Entidades.pdb
+D:\Usuarios\OEM\Downloads\tp integrador\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Usuarios\OEM\Downloads\tp integrador\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Usuarios\OEM\Downloads\tp integrador\Entidades\obj\Debug\Entidades.dll
+D:\Usuarios\OEM\Downloads\tp integrador\Entidades\obj\Debug\Entidades.pdb
+C:\Users\altam\Desktop\tp integrador2\Entidades\bin\Debug\Entidades.dll
+C:\Users\altam\Desktop\tp integrador2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\altam\Desktop\tp integrador2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\altam\Desktop\tp integrador2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\altam\Desktop\tp integrador2\Entidades\obj\Debug\Entidades.dll
+C:\Users\altam\Desktop\tp integrador2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\altam\Desktop\tp integrador3\Entidades\bin\Debug\Entidades.dll
+C:\Users\altam\Desktop\tp integrador3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\altam\Desktop\tp integrador3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\altam\Desktop\tp integrador3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\altam\Desktop\tp integrador3\Entidades\obj\Debug\Entidades.dll
+C:\Users\altam\Desktop\tp integrador3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\altam\Desktop\tp integrador5\Entidades\bin\Debug\Entidades.dll
+C:\Users\altam\Desktop\tp integrador5\Entidades\bin\Debug\Entidades.pdb
+C:\Users\altam\Desktop\tp integrador5\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\altam\Desktop\tp integrador5\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\altam\Desktop\tp integrador5\Entidades\obj\Debug\Entidades.dll
+C:\Users\altam\Desktop\tp integrador5\Entidades\obj\Debug\Entidades.pdb
+D:\Usuarios\OEM\Downloads\tp integrador8\Entidades\bin\Debug\Entidades.dll
+D:\Usuarios\OEM\Downloads\tp integrador8\Entidades\bin\Debug\Entidades.pdb
+D:\Usuarios\OEM\Downloads\tp integrador8\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Usuarios\OEM\Downloads\tp integrador8\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Usuarios\OEM\Downloads\tp integrador8\Entidades\obj\Debug\Entidades.dll
+D:\Usuarios\OEM\Downloads\tp integrador8\Entidades\obj\Debug\Entidades.pdb
+C:\Users\altam\Desktop\tp integrador 8.5\Entidades\bin\Debug\Entidades.dll
+C:\Users\altam\Desktop\tp integrador 8.5\Entidades\bin\Debug\Entidades.pdb
+C:\Users\altam\Desktop\tp integrador 8.5\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\altam\Desktop\tp integrador 8.5\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\altam\Desktop\tp integrador 8.5\Entidades\obj\Debug\Entidades.dll
+C:\Users\altam\Desktop\tp integrador 8.5\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows 10\Desktop\pro lab3\tp integrador 8.4\tp integrador 8.5\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows 10\Desktop\pro lab3\tp integrador 8.4\tp integrador 8.5\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows 10\Desktop\pro lab3\tp integrador 8.4\tp integrador 8.5\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\pro lab3\tp integrador 8.4\tp integrador 8.5\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\pro lab3\tp integrador 8.4\tp integrador 8.5\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows 10\Desktop\pro lab3\tp integrador 8.4\tp integrador 8.5\Entidades\obj\Debug\Entidades.pdb
+D:\Usuarios\OEM\Desktop\tp integrador 8.5\Entidades\bin\Debug\Entidades.dll
+D:\Usuarios\OEM\Desktop\tp integrador 8.5\Entidades\bin\Debug\Entidades.pdb
+D:\Usuarios\OEM\Desktop\tp integrador 8.5\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Usuarios\OEM\Desktop\tp integrador 8.5\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Usuarios\OEM\Desktop\tp integrador 8.5\Entidades\obj\Debug\Entidades.dll
+D:\Usuarios\OEM\Desktop\tp integrador 8.5\Entidades\obj\Debug\Entidades.pdb
