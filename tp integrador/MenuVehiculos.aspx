@@ -227,7 +227,7 @@
                                 <br />precio:
                                 <asp:Label ID="precioLabel" runat="server" Text='<%# Eval("precio") %>' />
                                 <br />
-                                <asp:Button ID="btnSeleccionar" runat="server" Text="Seleccionar" OnCommand="btnSeleccionar_Command" />
+                                                               <asp:Button ID="btnSeleccionar" runat="server" Text="seleccionar" OnCommand="btnSeleccionar_Command"  CommandName="btnSeleccionar_Click" CommandArgument='<%# Eval("nombre_mo")+"-"+Eval("tipo_mo")+"-"+Eval("cod_marca_mo")+"-"+ Eval("cant_puer_mo") %>' />
                                 <br />
                                 </td>
                         </ItemTemplate>
