@@ -29,7 +29,7 @@ namespace Datos
 
         public Boolean existeModelo(Modelos mod)
         {
-            String consulta = "Select * from Modelos where NombreModelo='" + mod.GetNombModeloMO() + "'";
+            String consulta = "Select * from Modelos where nombre_mo='" + mod.GetNombModeloMO() + "'";
             return ds.existe(consulta);
         }
 
@@ -54,7 +54,7 @@ namespace Datos
        
             SqlCommand comando = new SqlCommand();
             ArmarParametrosModelosAgregar(ref comando, mod);
-            return ds.EjecutarProcedimientoAlmacenado(comando, "spAgregarModelo");
+            return ds.EjecutarProcedimientoAlmacenado(comando, "spAgregarModelos");
         }
 
         public int actualizarModelos(Modelos mod)
