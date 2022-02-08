@@ -54,7 +54,26 @@ namespace Negocio
                 return false;
         }
 
+        public bool ActualizarModelo(Modelos mod)
+        {
+            if (mod.GetCodModeloMO() == null)
+            {
+                return false;
+            }
 
+            DatosModelo dao = new DatosModelo();
+
+            int op = dao.actualizarModelos(mod);
+
+            if (op == 1)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
 
 
 
